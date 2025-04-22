@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### Acknowledgment
+# Acknowledgment
 
 I would like to express my sincere gratitude to everyone who contributed to the success of this project.
 
